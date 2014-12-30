@@ -346,4 +346,34 @@
     <string name="no_alarms" msgid="6429431324842022917">"Aucune alarme"</string>
     <string name="no_alarms_set" msgid="4887558279496044764">"Aucune alarme"</string>
     <string name="no_upcoming_alarms" msgid="2889840988069436254">"AUCUNE ALARME À VENIR"</string>
+
+    <!-- Setting labels on Set alarm screen: Increasing volume on or off -->
+    <string name="alarm_increasing_volume">Volume croissant</string>
+
+    <!-- Setting title for the flip action setting. -->
+    <string name="flip_action_title">Action du retournement</string>
+
+    <!-- Dialog title of the flip action setting. -->
+    <string name="flip_action_dialog_title" product="tablet">Retourner la tablette pour\u2026</string>
+    <string name="flip_action_dialog_title" product="default">Retourner le téléphone pour\u2026</string>
+
+    <!-- Setting summary for the flip action setting. -->
+    <string name="flip_action_summary" product="tablet">Le retournement de la tablette vers le bas fera <xliff:g id="action">%s</xliff:g></string>
+    <string name="flip_action_summary" product="default">Le Retournement du téléphone vers le bas fera <xliff:g id="action">%s</xliff:g></string>
+
+    <!-- Setting title for the shake action setting. -->
+    <string name="shake_action_title">Action des secousses</string>
+
+    <!-- Dialog title for the shake action setting. -->
+    <string name="shake_action_dialog_title" product="tablet">Secouer la tablette pour\u2026</string>
+    <string name="shake_action_dialog_title" product="default">Secouer le téléphone pour\u2026</string>
+
+    <!-- Setting summary for the shake action setting. -->
+    <string name="shake_action_summary" product="tablet">Secouer la tablette fera <xliff:g id="action">%s</xliff:g></string>
+    <string name="shake_action_summary" product="default">Secouer le téléphone fera <xliff:g id="action">%s</xliff:g></string>
+
+    <!-- Summary texts for shake and flip actions -->
+    <string name="action_summary_do_nothing">ne rien faire</string>
+    <string name="action_summary_snooze">rappel d\'alarme</string>
+    <string name="action_summary_dismiss">rejeter l\'alarme</string>
 </resources>
